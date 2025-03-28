@@ -29,3 +29,4 @@
 - Used Reqres.in Mock API
 - Token stored in LocalStorage
 - Form validations implemented
+![Screenshot 2025-03-28 105047](https://github.com/user-attachments/assets/d57d8ade-92c9-49fb-8d11-da4baed41c56)
